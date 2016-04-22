@@ -1,7 +1,7 @@
 {
     "BLOOP": "Bloop bloop",
-    "bloop bloop": "Bloop bloop bloop",
-    "Bloop bloop bloop": "On va jouer à ça longtemps ?",
+    "BLOOP BLOOP": "Bloop bloop bloop",
+    "BLOOP BLOOP BLOOP": "On va jouer à ça longtemps ?",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
