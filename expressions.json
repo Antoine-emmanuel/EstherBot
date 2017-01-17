@@ -56,11 +56,33 @@
       ]
     },
     {
+      "text" : "bonjour",
+      "entities" : [
+        {
+          "entity" : "salutation",
+          "value" : "\"salut\"",
+          "start" : 0,
+          "end" : 7
+        }
+      ]
+    },
+    {
       "text" : "ennervé",
       "entities" : [
         {
           "entity" : "mood",
           "value" : "\"ennervé\"",
+          "start" : 0,
+          "end" : 7
+        }
+      ]
+    },
+    {
+      "text" : "healthy",
+      "entities" : [
+        {
+          "entity" : "mood",
+          "value" : "\"healthy\"",
           "start" : 0,
           "end" : 7
         }
